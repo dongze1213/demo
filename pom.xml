@@ -8,7 +8,7 @@
     <scm>
         <connection>scm:git:ssh://git@github.com:dongze1213/demo.git</connection>
         <developerConnection>scm:git:ssh://git@github.com:dongze1213/demo.git</developerConnection>
-     <!--   <url>https://dev.azure.com/henhen/meow-interaction/_git/meow-interaction-lib</url>-->
+   <url>https://https://github.com/dongze1213/demo</url>
         <!--   <tag>meow-spring-boot-bom-1.0.0</tag>-->
 
         <tag>demo-1.0.0</tag>
