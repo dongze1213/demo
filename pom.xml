@@ -6,8 +6,8 @@
     <artifactId>demo</artifactId>
     <version>1.0.0</version>
     <scm>
-        <connection>scm:git:ssh://git@github.com:dongze1213/demo.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:dongze1213/demo.git</developerConnection>
+        <connection>scm:git:ssh://git@github.com/~dongze1213/demo.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/~dongze1213/demo.git</developerConnection>
          <url>https://github.com/dongze1213/demo</url>
         <tag>demo-1.0.0</tag>
     </scm>
